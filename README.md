@@ -1,2 +1,2 @@
 # Security-Testing
-Sample Report
+Test Report
